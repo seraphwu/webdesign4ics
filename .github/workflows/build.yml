@@ -1,4 +1,4 @@
-name: Build my gitbook and deploy to gh-pages
+name: Build my gitbook and deploy to github-pages
 
 on:
   workflow_dispatch:
